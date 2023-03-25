@@ -1,6 +1,6 @@
-# Paribu Test Automation
+# COin Test Automation
 
-Paribu is test automation written in python selenium
+Coin is test automation written in python selenium
 ## Requirements
 * Python 3
 * Selenium
